@@ -15,16 +15,4 @@ The project is built using HTML5, CSS3 and Vanilla Js. The main pages of the app
 - Home page: displays a curated selection of images and allows users to search for images
 - Image page: displays the details of a single image, including its likes, saves, and download options
 
-## Contributing
 
-Contributions to this project are welcome! To contribute, please follow these steps:
-
-1. Fork the repository
-2. Create a new branch for your feature or bugfix
-3. Make your changes and commit them with descriptive commit messages
-4. Push your branch to your fork
-5. Open a pull request to the main repository
-
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
